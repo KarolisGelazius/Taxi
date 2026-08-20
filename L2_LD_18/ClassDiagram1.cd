@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="L2_LD_18.Car">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAoAAAAABCAAAAAEAAAAAAAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Car.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="L2_LD_18.Driver">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAACAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Driver.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="L2_LD_18.Form1">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgBAAgEAAAAEAAAAABwAgAIgAQQAAAAAAAAAIAAgA=</HashCode>
+      <FileName>Form1.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="L2_LD_18.InOutUtils">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIQAIAAAgAAAAACAAACAAAAAADCAAAAAAAAAAAgABA=</HashCode>
+      <FileName>InOutUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="L2_LD_18.LListCar">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Class Name="L2_LD_18.LListCar.Node" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>LListCar.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AgAABAAAgAAAAAAAAAIAFAAAAAAAEQAEAAAAAAEAAgA=</HashCode>
+      <FileName>LListCar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="L2_LD_18.LListDriver">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Class Name="L2_LD_18.LListDriver.Node" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>LListDriver.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAgAAAAAAAAAIAFAAAAAAAEQAEAAAAAAkAAgA=</HashCode>
+      <FileName>LListDriver.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="L2_LD_18.LListTaxi">
+    <Position X="13.5" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Class Name="L2_LD_18.LListTaxi.Node" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>LListTaxi.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AgAAEAAAgAAAAAAAAAIQFAAAAAAAEQAEAAAAAAEAAgA=</HashCode>
+      <FileName>LListTaxi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="L2_LD_18.TaskUtils">
+    <Position X="15.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAAABAAAAAAACAAAAAAAAABAgAA=</HashCode>
+      <FileName>TaskUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="L2_LD_18.Taxi">
+    <Position X="1" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACgAAAAAAAAAAAQEAEAAAAAAAAAAAAAAQAgAAAAAAAA=</HashCode>
+      <FileName>Taxi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

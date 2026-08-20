@@ -1,0 +1,142 @@
+--------------------------------------------------------------------------------
+| Manufacturer    | Model           | Car Numbers     | Year | Mileage         |
+--------------------------------------------------------------------------------
+| Toyota          | RAV4            | DEF001          | 2019 |             125 |
+| Honda           | Accord          | DEF002          | 2018 |             140 |
+| Audi            | Q5              | DEF003          | 2020 |             135 |
+| Ford            | Fiesta          | DEF004          | 2017 |              90 |
+| Volkswagen      | Golf            | DEF005          | 2016 |             115 |
+| Peugeot         | 508             | DEF006          | 2021 |             150 |
+| Citroen         | C3              | DEF007          | 2019 |             100 |
+| Mazda           | 6               | DEF008          | 2020 |             120 |
+| Skoda           | Superb          | DEF009          | 2018 |             145 |
+| Peugeot         | 2008            | DEF010          | 2022 |             138 |
+| BMW             | 320             | DEF011          | 2017 |             148 |
+| Mercedes        | A180            | DEF012          | 2019 |             132 |
+| Toyota          | Corolla         | DEF013          | 2020 |             110 |
+| Audi            | Q3              | DEF014          | 2021 |             128 |
+| Ford            | Kuga            | DEF015          | 2018 |             134 |
+| Nissan          | Qashqai         | DEF016          | 2019 |             122 |
+| Hyundai         | Tucson          | DEF017          | 2021 |             142 |
+| Kia             | Sportage        | DEF018          | 2020 |             139 |
+| Renault         | Megane          | DEF019          | 2018 |             108 |
+| Opel            | Astra           | DEF020          | 2017 |             112 |
+| Volvo           | XC60            | DEF021          | 2019 |             155 |
+| Lexus           | NX300           | DEF022          | 2021 |             165 |
+| Subaru          | Forester        | DEF023          | 2018 |             130 |
+| Mitsubishi      | Outlander       | DEF024          | 2017 |             126 |
+| Jeep            | Compass         | DEF025          | 2020 |             137 |
+| Tesla           | Model 3         | DEF026          | 2022 |             170 |
+| Toyota          | Camry           | DEF027          | 2019 |             150 |
+| Honda           | Civic           | DEF028          | 2018 |             118 |
+| Audi            | A3              | DEF029          | 2020 |             123 |
+| BMW             | 520             | DEF030          | 2017 |             160 |
+| Mercedes        | GLA200          | DEF031          | 2019 |             145 |
+| Volkswagen      | Tiguan          | DEF032          | 2021 |             152 |
+| Skoda           | Kodiaq          | DEF033          | 2020 |             158 |
+| Mazda           | CX30            | DEF034          | 2022 |             136 |
+| Peugeot         | 408             | DEF035          | 2021 |             141 |
+| Citroen         | C5              | DEF036          | 2019 |             133 |
+| Ford            | Edge            | DEF037          | 2018 |             147 |
+| Hyundai         | Elantra         | DEF038          | 2020 |             119 |
+| Kia             | Ceed            | DEF039          | 2017 |             111 |
+| Renault         | Kadjar          | DEF040          | 2018 |             129 |
+| Opel            | Insignia        | DEF041          | 2019 |             143 |
+| Volvo           | S60             | DEF042          | 2021 |             162 |
+| Lexus           | IS300           | DEF043          | 2020 |             167 |
+| Subaru          | Impreza         | DEF044          | 2018 |             109 |
+| Mitsubishi      | ASX             | DEF045          | 2019 |             124 |
+--------------------------------------------------------------------------------
+
+-------------------------------------------------------
+| FirstName       | LastName        | Car Numbers     |
+-------------------------------------------------------
+| Tadas           | Tadaitis        | DEF001          |
+| Greta           | Gretaitė        | DEF002          |
+| Marius          | Maraitis        | DEF003          |
+| Rūta            | Rūtaitė         | DEF004          |
+| Andrius         | Andraitis       | DEF005          |
+| Lina            | Linaitė         | DEF006          |
+| Deividas        | Deivaitis       | DEF007          |
+| Monika          | Monikaitė       | DEF008          |
+| Justas          | Justaitis       | DEF009          |
+| Gabija          | Gabijaitė       | DEF010          |
+| Arnas           | Arnaitis        | DEF011          |
+| Aistė           | Aistaitė        | DEF012          |
+| Rokas           | Rokaitis        | DEF013          |
+| Emilija         | Emilijaitė      | DEF014          |
+| Dominykas       | Dominaitis      | DEF015          |
+| Martynas        | Martynaitis     | DEF016          |
+| Ugnė            | Ugnaitė         | DEF017          |
+| Vytautas        | Vytautaitis     | DEF018          |
+| Kamilė          | Kamilaitė       | DEF019          |
+| Edgaras         | Edgaraitis      | DEF020          |
+| Saulius         | Saulaitis       | DEF021          |
+| Indrė           | Indraitė        | DEF022          |
+| Mindaugas       | Mindaugaitis    | DEF023          |
+| Paulina         | Paulinaitė      | DEF024          |
+| Artūras         | Artūraitis      | DEF025          |
+| Gintarė         | Gintaraitė      | DEF026          |
+| Evaldas         | Evaldaitis      | DEF027          |
+| Dovilė          | Dovilaitė       | DEF028          |
+| Kęstutis        | Kęstutaitis     | DEF029          |
+| Jolanta         | Jolantaitė      | DEF030          |
+| Šarūnas         | Šarūnaitis      | DEF031          |
+| Vilma           | Vilmaitė        | DEF032          |
+| Rimantas        | Rimantaitis     | DEF033          |
+| Kristina        | Kristinaitė     | DEF034          |
+| Algirdas        | Algirdaitis     | DEF035          |
+| Renata          | Renataitė       | DEF036          |
+| Gediminas       | Gediminaitis    | DEF037          |
+| Edita           | Editaitė        | DEF038          |
+| Arūnas          | Arūnaitis       | DEF039          |
+| Birutė          | Birutaitė       | DEF040          |
+| Valdas          | Valdaitis       | DEF041          |
+| Jurgita         | Jurgitaitė      | DEF042          |
+| Darius          | Dariaitis       | DEF043          |
+| Sandra          | Sandraite       | DEF044          |
+| Vytenis         | Vytenaitis      | DEF045          |
+-------------------------------------------------------
+
+--------------------------------------------------------------------------------
+| Manufacturer    | Model           |  Age | DriverFirstName | DriverLastName  |
+--------------------------------------------------------------------------------
+| Audi            | Q3              |    5 | Emilija         | Emilijaitė      |
+| Hyundai         | Tucson          |    5 | Ugnė            | Ugnaitė         |
+| Lexus           | NX300           |    5 | Indrė           | Indraitė        |
+| Mazda           | CX30            |    4 | Kristina        | Kristinaitė     |
+| Peugeot         | 2008            |    4 | Gabija          | Gabijaitė       |
+| Peugeot         | 408             |    5 | Algirdas        | Algirdaitis     |
+| Peugeot         | 508             |    5 | Lina            | Linaitė         |
+| Tesla           | Model 3         |    4 | Gintarė         | Gintaraitė      |
+| Volkswagen      | Tiguan          |    5 | Vilma           | Vilmaitė        |
+| Volvo           | S60             |    5 | Jurgita         | Jurgitaitė      |
+--------------------------------------------------------------------------------
+
+------------------------------
+| Unique car manufacturers   |
+------------------------------
+| Audi                       |
+| Hyundai                    |
+| Lexus                      |
+| Mazda                      |
+| Peugeot                    |
+| Tesla                      |
+| Volkswagen                 |
+| Volvo                      |
+------------------------------
+
+Most exploited car
+--------------------------------------------------------------------------------
+| Manufacturer    | Model           | Car Numbers     | Year |         Mileage |
+--------------------------------------------------------------------------------
+| Tesla           | Model 3         | DEF026          | 2022 |             170 |
+--------------------------------------------------------------------------------
+
+Most exploited car driver
+-------------------------------------
+| FirstName       | LastName        |
+-------------------------------------
+| Gintarė         | Gintaraitė      |
+-------------------------------------
+
